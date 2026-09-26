@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('我愛妳我的小公主', function() {
+        modal('我愛妳我的老婆', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
@@ -9,7 +9,7 @@ $(function() {
         });
     });
     $('#no').click(function(event) {
-        modal('寶寶我真的', A);
+        modal('老婆我真的', A);
     });
 });
 
@@ -18,7 +18,7 @@ function A() {
 }
 
 function B() {
-    modal('很愛妳', C);
+    modal('好愛妳', C);
 }
 
 function C() {
