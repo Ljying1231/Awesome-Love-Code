@@ -18,7 +18,7 @@ function A() {
 }
 
 function B() {
-    modal('好愛妳', C);
+    modal('好愛妳！', C);
 }
 
 function C() {
