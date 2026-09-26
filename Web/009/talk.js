@@ -22,15 +22,15 @@ function B() {
 }
 
 function C() {
-    modal('我不會在意妳的情緒', D);
+    modal('妳不開心就找我！', D);
 }
 
 function D() {
-    modal('我想要妳有話直說就好', E);
+    modal('但是妳不許再把我推開了', E);
 }
 
 function E() {
-    modal('有我在妳不用藏著情緒了', F);
+    modal('我想身邊一直是妳', F);
 }
 
 function F() {
